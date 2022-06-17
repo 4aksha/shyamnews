@@ -1,9 +1,9 @@
 # shyamnews
 
 
+#Most famous project firstpost (news's project)
 
-
-source code:- (https://github.com/4aksha/Project-Beauty-bebo/tree/main/relate%20style/index) our Github LInk.
+source code:- (https://github.com/4aksha/shyamnews/tree/main) our Github LInk.
 
 
 
